@@ -1,7 +1,9 @@
-# <p align="center"> LoaderObject: A Unity Asset </p>
+# <p align="center"> Loader Object: A Unity Asset </p>
 
 **Description**
 : A small package that facilitates development by implementing Scriptable Objects as a quick method to save and load various types of Data from a JSON file.
+
+**Version**: 1.0.0
 
 **Asset Store**: Link(TBA)
 
