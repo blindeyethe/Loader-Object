@@ -5,11 +5,11 @@
 
 **Version**: 1.0.0
 
-**Asset Store**: Link(TBA)
+**Asset Store**: [Link](https://u3d.as/2TCH)
 
 **Direct Download**: Link
 
-**Location of the JSON**
+**Location of the JSON files**
 : `C:\Users\Username\AppData\LocalLow\Company\Game\Loader Objects`
 
 
