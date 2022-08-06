@@ -11,7 +11,7 @@
 : `C:\Users\Username\AppData\LocalLow\Company\Game\Loader Objects`
 
 
-## How to use this Package
+## <p align="center"> How to use this Package </p>
 
 ### 1. Create a class that inherits from LoaderObjectData<TData, TValue>
 ```cs
