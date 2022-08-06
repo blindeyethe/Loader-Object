@@ -11,5 +11,4 @@ namespace LoaderObject.Examples
 
         protected override void Awake() => PassData(volume.components);
     }
-
 }
